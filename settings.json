@@ -1,0 +1,7 @@
+{
+    "serialport": "COM3",
+    "baudRate": 115200,
+    "webserver": {
+        "port": 3000
+    }
+}
